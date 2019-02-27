@@ -3,7 +3,7 @@ This project aims at providing a fast, modular reference implementation for supe
 
 ## Introducation 
 - [RDN](https://arxiv.org/abs/1802.08797)  
-![Block1](result/reidual.png)
+>> ![Block1](result/reidual.png)
 ![Block2](result/residual2.png)
 ![Block3](result/residual3.png)
 ## training  
