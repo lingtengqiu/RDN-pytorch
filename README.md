@@ -14,8 +14,8 @@ put your train_img,and valid_img to the DIV2K_train_HR and DIV2K_valid_HR. <br>
 2. you can change your para from the config.py All of it realized from pytorch.<br>
 Finaly if you want to see the output ,you can download the visdom to see output real time
 
-### training_Loss 
-![train loss](result/newplot.png) 
+### training_Loss   
+![train loss](result/newplot.png)  
 
 ## eval
 ### eval_result
