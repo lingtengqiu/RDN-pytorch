@@ -18,8 +18,9 @@ Finaly if you want to see the output ,you can download the visdom to see output 
 ![train loss](result/newplot.png)  
 
 ## eval
-### eval_result  
-![original-4](result/original.png)   
+### original  
+![original-4](result/original.png)  
+### predict  
 ![predict-4](result/predict.png)
 
 ## Support
