@@ -3,9 +3,8 @@ This project aims at providing a fast, modular reference implementation for supe
 
 ## Introducation 
 - [RDN](https://arxiv.org/abs/1802.08797)  
-![Block1](result/reidual.png)
+![Block1](result/reidual.png) ![Block3](result/residual3.png)
 ![Block2](result/residual2.png)
-![Block3](result/residual3.png)
 ## training  
 ### preprocess
 For training you shall download the DIV2k dataset:- [DIV2K]https://data.vision.ee.ethz.ch/cvl/DIV2K/   
