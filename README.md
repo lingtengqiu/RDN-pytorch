@@ -19,8 +19,8 @@ Finaly if you want to see the output ,you can download the visdom to see output 
 
 ## eval
 ### eval_result  
-![original](result/original 4\*.png)   
-![predict](result/predict4> *.png)
+![original-stride4](result/original.png)   
+![predict](result/predict4.png)
 
 ## Support
 if you have question ,email me 1259738366@qq.com
