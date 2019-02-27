@@ -2,7 +2,7 @@
 This project aims at providing a fast, modular reference implementation for super-resolution  models using pytorch 
 
 ## Introducation 
-- [RDN](https://arxiv.org/abs/1802.08797)(CVPR2018) 
+- [RDN](https://arxiv.org/abs/1802.08797)(CVPR2018)  
 ![Block1](result/reidual.png) ![Block3](result/residual3.png)
 ![Block2](result/residual2.png)
 ## training  
