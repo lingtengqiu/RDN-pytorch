@@ -10,12 +10,16 @@ This project aims at providing a fast, modular reference implementation for supe
 
 
 ## training  
+### preprocess
 For training you shall download the DIV2k dataset:- [DIV2K]https://data.vision.ee.ethz.ch/cvl/DIV2K/   
 put your train_img,and valid_img to the DIV2K_train_HR and DIV2K_valid_HR. <br> 
-### Loss 
-![train loss](result/newplot.png) 
-
 First you shall python main.py process to generate downsample data and then you can train your RDN-Net to use python main.py train .<br>
 Second,you can change your para from the config.py All of it realized from pytorch.<br>
+Finaly if you want to see the output ,you can download the visdom to see output real time
+
+### training_Loss 
+![train loss](result/newplot.png) 
+
+## Support
 Finaly if you want to see the output ,you can download the visdom to see output real time
 if you have question ,email me 1259738366@qq.com
