@@ -3,7 +3,7 @@
 
 # **********************************************************
 # * Author        : lingteng qiu
-# * Email         : 1259738366@qq.com
+# * Email         : 
 # * Create time   : 2018-08-22 09:54
 # * Last modified : 2018-08-22 09:54
 # * Filename      : RDN.py
