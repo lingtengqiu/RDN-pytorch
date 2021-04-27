@@ -3,7 +3,7 @@
 
 # **********************************************************
 # * Author        : lingteng qiu
-# * Email         : 1259738366@qq.com
+# * Email         : 
 # * Create time   : 2018-08-22 11:53
 # * Last modified : 2018-08-22 11:53
 # * Filename      : loss_function.py
